@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 
 
 
+
 @Component({
   selector: 'app-home',
   standalone: true, // Necesario para componentes autónomos
@@ -10,9 +11,7 @@ import { CommonModule } from '@angular/common';
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css']
 })
-export class HomeComponent {
-
-  
+export class HomeComponent  {
 
  
 }
